@@ -1,2 +1,2 @@
 # ImageServerDocker
-Python pogram for showing pictures.
+Django program to show images.
